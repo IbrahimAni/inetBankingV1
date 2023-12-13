@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="96dd742b-ce6d-45e6-9b7f-2df51e1d659f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Configuration/config.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Drivers/IEDriverServer.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Drivers/chromedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Drivers/geckodriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Screenshots/addCustomer.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Screenshots/loginDDT.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Screenshots/loginTest.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestNG.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/extent-config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/ebanking.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/inetbanking/cookies/Cookies.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/inetbanking/pageObjects/AddCustomerPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/inetbanking/pageObjects/LoginPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/inetbanking/testCases/BaseClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/inetbanking/testCases/TC_AddCustomerTest_003.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/inetbanking/testCases/TC_LoginDDT_002.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/inetbanking/testCases/TC_LoginTest_001.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/inetbanking/testData/LoginData.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/inetbanking/utilities/ReadConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/inetbanking/utilities/Reporting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/inetbanking/utilities/XLUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/Test-Report-2023.12.13.00.08.02.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/Test-Report-2023.12.13.02.21.07.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/Test-Report-2023.12.13.02.26.46.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/Test-Report-2023.12.13.02.48.08.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/Test-Report-2023.12.13.18.31.22.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/Test-Report-2023.12.13.18.36.13.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/Test-Report-2023.12.13.18.39.44.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/Test-Report-2023.12.13.18.45.34.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/Test-Report-2023.12.13.18.47.26.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/Test-Report-2023.12.13.19.08.53.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/Test-Report-2023.12.13.19.23.39.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/Test-Report-2023.12.13.19.25.08.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/Test-Report-2023.12.13.20.12.00.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/Test-Report-2023.12.13.20.18.07.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/Test-Report-2023.12.13.20.20.05.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/Test-Report-2023.12.13.20.23.36.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/Test-Report-2023.12.13.20.27.58.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/Test-Report-2023.12.13.20.34.07.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/Test-Report-2023.12.13.20.37.31.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/TestNG.xml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/pom.xml" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectId" id="2YqRqZoaieeEjFQLNc8QBt4s1wo" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/User/IdeaProjects/inetBankingV1/Drivers",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "SDKs",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\User\IdeaProjects\inetBankingV1\Drivers" />
+      <recent name="C:\Users\User\IdeaProjects\inetBankingV1\src\test\java\com\inetbanking\testData" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn clean" />
+      <command value="mvn test" />
+    </option>
+  </component>
+  <component name="RunManager" selected="TestNG.C:/Users/User/IdeaProjects/inetBankingV1/TestNG.xml">
+    <configuration name="Cookies" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.inetbanking.cookies.Cookies" />
+      <module name="inetBankingV1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.inetbanking.cookies.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/Users/User/IdeaProjects/inetBankingV1/TestNG.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="inetBankingV1" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/TestNG.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TC_AddCustomerTest_003" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="inetBankingV1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.inetbanking.testCases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.inetbanking.testCases" />
+      <option name="MAIN_CLASS_NAME" value="com.inetbanking.testCases.TC_AddCustomerTest_003" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TC_LoginTest_001" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="inetBankingV1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.inetbanking.testCases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.inetbanking.testCases" />
+      <option name="MAIN_CLASS_NAME" value="com.inetbanking.testCases.TC_LoginTest_001" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TC_LoginTest_001.loginTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="inetBankingV1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.inetbanking.testCases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.inetbanking.testCases" />
+      <option name="MAIN_CLASS_NAME" value="com.inetbanking.testCases.TC_LoginTest_001" />
+      <option name="METHOD_NAME" value="loginTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.C:/Users/User/IdeaProjects/inetBankingV1/TestNG.xml" />
+        <item itemvalue="TestNG.TC_LoginTest_001.loginTest" />
+        <item itemvalue="Application.Cookies" />
+        <item itemvalue="TestNG.TC_LoginTest_001" />
+        <item itemvalue="TestNG.TC_AddCustomerTest_003" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="96dd742b-ce6d-45e6-9b7f-2df51e1d659f" name="Changes" comment="" />
+      <created>1701251317331</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1701251317331</updated>
+      <workItem from="1701251318793" duration="14788000" />
+      <workItem from="1701365615500" duration="1344000" />
+      <workItem from="1701523045672" duration="10410000" />
+      <workItem from="1702125211044" duration="2485000" />
+      <workItem from="1702421810781" duration="9590000" />
+      <workItem from="1702436151078" duration="52000" />
+      <workItem from="1702436353189" duration="1068000" />
+      <workItem from="1702454721193" duration="5813000" />
+      <workItem from="1702491414076" duration="8899000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XPathView.XPathProjectComponent">
+    <history />
+    <find-history />
+  </component>
+</project>
