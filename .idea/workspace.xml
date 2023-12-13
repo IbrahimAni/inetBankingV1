@@ -4,58 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="96dd742b-ce6d-45e6-9b7f-2df51e1d659f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Configuration/config.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Drivers/IEDriverServer.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Drivers/chromedriver.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Drivers/geckodriver.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Screenshots/addCustomer.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Screenshots/loginDDT.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Screenshots/loginTest.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestNG.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/extent-config.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/log4j.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/ebanking.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/run.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/inetbanking/cookies/Cookies.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/inetbanking/pageObjects/AddCustomerPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/inetbanking/pageObjects/LoginPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/inetbanking/testCases/BaseClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/inetbanking/testCases/TC_AddCustomerTest_003.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/inetbanking/testCases/TC_LoginDDT_002.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/inetbanking/testCases/TC_LoginTest_001.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/inetbanking/testData/LoginData.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/inetbanking/utilities/ReadConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/inetbanking/utilities/Reporting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/inetbanking/utilities/XLUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/Test-Report-2023.12.13.00.08.02.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/Test-Report-2023.12.13.02.21.07.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/Test-Report-2023.12.13.02.26.46.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/Test-Report-2023.12.13.02.48.08.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/Test-Report-2023.12.13.18.31.22.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/Test-Report-2023.12.13.18.36.13.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/Test-Report-2023.12.13.18.39.44.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/Test-Report-2023.12.13.18.45.34.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/Test-Report-2023.12.13.18.47.26.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/Test-Report-2023.12.13.19.08.53.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/Test-Report-2023.12.13.19.23.39.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/Test-Report-2023.12.13.19.25.08.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/Test-Report-2023.12.13.20.12.00.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/Test-Report-2023.12.13.20.18.07.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/Test-Report-2023.12.13.20.20.05.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/Test-Report-2023.12.13.20.23.36.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/Test-Report-2023.12.13.20.27.58.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/Test-Report-2023.12.13.20.34.07.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/Test-Report-2023.12.13.20.37.31.html" afterDir="false" />
-    </list>
+    <list default="true" id="96dd742b-ce6d-45e6-9b7f-2df51e1d659f" name="Changes" comment="Framework Setup" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -219,15 +168,37 @@
       <workItem from="1702436151078" duration="52000" />
       <workItem from="1702436353189" duration="1068000" />
       <workItem from="1702454721193" duration="5813000" />
-      <workItem from="1702491414076" duration="8899000" />
+      <workItem from="1702491414076" duration="9199000" />
     </task>
+    <task id="LOCAL-00001" summary="Framework Setup">
+      <option name="closed" value="true" />
+      <created>1702503447162</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1702503447162</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Framework Setup" />
+    <option name="LAST_COMMIT_MESSAGE" value="Framework Setup" />
   </component>
   <component name="XPathView.XPathProjectComponent">
     <history />
